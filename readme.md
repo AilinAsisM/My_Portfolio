@@ -19,11 +19,9 @@ I'm passionate about managing big data and obtain big solutions with this.
 
 I have a lot of hobbies but the most import is play differents sports and enjoy it with my family and friends.
 
-## Contact
+## Contact me!
 
-Contact me!.
-
-My website: ...
-Email: ailinj.asis@gmail.com
-Linkedin: https://www.linkedin.com/in/ailin-asis/
-Github: https://github.com/AilinAsis96
+- My website: ...
+- Email: ailinj.asis@gmail.com
+- Linkedin: https://www.linkedin.com/in/ailin-asis/
+- Github: https://github.com/AilinAsis96
