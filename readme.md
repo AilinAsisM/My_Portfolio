@@ -4,7 +4,7 @@
 
 - [Home](#home)
 - [About me](#about-me)
-- [Contact](#contact-me!)
+- [Contact me!](#contact-me!)
 
 
 ## Home
